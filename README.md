@@ -4,9 +4,13 @@
 
 Folder Structure:-
 etl_project/
-│── app.py  # Main Flask app
-│── .env  # AWS credentials
-│── transformations.py  # Data processing logic
-│── requirements.txt  # Dependencies
-│── templates/
-│   ├── index.html  # Basic UI
+
+── **app.py**  # Main Flask app
+
+── **.env**  # AWS credentials
+
+── **transformations.py**  # Data processing logic
+
+── **requirements.txt**  # Dependencies
+
+── **templates**/ **index.html**  # Basic UI
