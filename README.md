@@ -13,4 +13,13 @@ etl_project/
 
 ── **requirements.txt**  # Dependencies
 
-── **templates**/ **index.html**  # Basic UI
+── **templates / index.html**  # Basic UI
+
+
+---------------------------------------------------------------------------------------------
+
+.env file
+
+![image](https://github.com/user-attachments/assets/be131969-ff13-4a27-b6aa-5b7115a55475)
+
+
